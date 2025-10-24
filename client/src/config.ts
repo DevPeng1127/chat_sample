@@ -1,4 +1,4 @@
-// 서버 웹소켓 엔드포인트트
+// 서버 웹소켓 엔드포인트
 export const SOCKET_URL = "http://localhost:8080/ws";
 
 // 닉네임 최대 길이
